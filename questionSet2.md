@@ -32,7 +32,7 @@ b = 20
 
 a, b = swap(a, b)
 
-print(a, b) // Should print out "200, 100", but the function prints out "10, 10"
+print(a, b) // Should print out "20, 10", but the function prints out "10, 10"
 Examples 👇
 
 swap(10, 20) ➞ [20, 10]
